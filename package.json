@@ -1,0 +1,22 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "description": "Project for Mocha test",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katsiarynamalaya/JSCourse.git"
+  },
+  "author": "EM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katsiarynamalaya/JSCourse/issues"
+  },
+  "homepage": "https://github.com/katsiarynamalaya/JSCourse#readme",
+  "dependencies": {
+    "mocha": "^7.1.2"
+  }
+}
